@@ -53,4 +53,9 @@ flutter:
     - family: Inter
       fonts:
         - asset: assets/fonts/Inter-VariableFont_opsz,wght.ttf
-
+    - family: SQR
+      fonts:
+        - asset: assets/fonts/SQR721E.ttf
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/Roboto-Regular.ttf
